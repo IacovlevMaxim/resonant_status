@@ -12,7 +12,7 @@ client.on('ready', () => {
                 large_text: "Click Join!",
             },
             buttons: [
-                { label: "Join Team Resonant", url: "https://discord.gg/8rUgMUM" },
+                { label: "Join Team Resonant", url: "https://discord.gg/dZGScC7" },
             ]
         }
     })
